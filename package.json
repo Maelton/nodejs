@@ -1,0 +1,13 @@
+{
+  "name": "pweb-first-module",
+  "version": "1.0.0",
+  "description": "Primeiro projeto NodeJS com npm",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
